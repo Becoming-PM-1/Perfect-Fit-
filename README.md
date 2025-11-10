@@ -13,3 +13,4 @@ Retails ; to significantly reduce return rate and boost customer retention
 Computer Vision (CV) Analysis| Used to accurately extract body dimensions from user-captured views.
 Geometric Comparison| Proprietary algorithm that compares user profile geometry against garment geometry for true compatibility.
 Clear Output| Delivers a simple, actionable score (e.g., Perfect Fit: 93% Match) with a detailed breakdown.
+![prefect fit image ](<Screenshot 2025-11-10 163208.png>)
